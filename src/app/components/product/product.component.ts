@@ -9,5 +9,4 @@ import { IProduct } from '../../moduls/products'
 export class ProductComponent {
    @Input() product: IProduct
    details = false
-// digitsInfo: string|undefined
 }
